@@ -1,2 +1,2 @@
-# -MARISSA
+# MARISSA
 machine asisted content analysis
